@@ -29,8 +29,8 @@ This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. T
 13:00 - 13:15	Group photo<br>
 13:15 - 15:30	Hacking<br>
 15:30 - 16:00	Break<br>
-16:00 - 17:30	Hacking<br>
-17:30 - 18:00	Plenary (EU/US)<br>
+16:00 - 17:15	Hacking<br>
+17:15 - 18:00	Plenary (EU/US)<br>
 
 ### Day 3: Wednesday 14th December 2022 
 
@@ -38,8 +38,8 @@ This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. T
 12:00 - 13:00	Lunch<br>
 13:00 - 15:00	Mid-way reporting from projects<br>
 15:00 - 15:30	Break<br>
-15:30 - 17:30	Hacking<br>
-17:30 - 18:00	Plenary (EU/US)<br>
+15:30 - 17:15	Hacking<br>
+17:15 - 18:00	Plenary (EU/US)<br>
 
 ### Day 4: Thursday 15th December 2022 
 
@@ -47,8 +47,8 @@ This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. T
 12:00 - 13:00	Lunch<br>
 13:00 - 15:30	Hacking<br>
 15:30 - 16:00	Break<br>
-16:00 - 17:30	Hacking<br>
-17:30 - 18:00	Plenary (EU/US)<br>
+16:00 - 17:15	Hacking<br>
+17:15 - 18:00	Plenary (EU/US)<br>
 20:00 - 00:00	After Hack Party<br>
 
 ### Day 5: Friday 16th December 2022 
