@@ -39,7 +39,8 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
  - 10:15 [01:15] Single cell data, *Paulo Czarnewski, SciLifeLab*
  - 10:30 [01:30] Spatial transcriptomics data, *Paulo Czarnewski, SciLifeLab*
  - 10:45 [01:45] Segmentation data, *Paulo Czarnewski, SciLifeLab*
- 
+ - 11:00 [02:00] Using R on Jupyter and switching between seurat and scnapy objects, *George Gavriilidis, INAB/CERTH*
+
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-13:15 [04:00-04:15]	Group photo<br>
 13:15-15:30	[04:15-06:30] Hacking<br>
