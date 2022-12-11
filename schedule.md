@@ -6,6 +6,8 @@ title: Schedule
 This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
 
 ### Day 1: Monday 12th December 2022 [Times in CET and PST]
+11:00-12:00 [03:00-03:00] Arrival / registration<br>
+12:00-13:00 [03:00-04:00] Lunch<br>
 13:00-15:00 [04:00-06:00] 
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_10min_intro_v4.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_10min_intro_v4.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
