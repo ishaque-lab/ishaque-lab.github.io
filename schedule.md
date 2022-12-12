@@ -31,8 +31,8 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
  - 18:30 [09:30] Data + challenges: mouse brain, *Michael Kunst, Allen Inst*<br>
  
 18:50-20:00 [09:50-11:00]	Christmas Market Visit (... wrap up warm - it should be -6C with snow!)<br>
-20:00-24:00 [11:00-15:00] Evening at free disposal
-22:00-23:00 [13:00-14:00]	Optional recap for US participants, *Naveed and Louis* <br>
+20:00-24:00 [11:00-15:00] Evening at free disposal<br>
+22:00-23:00 [13:00-14:00]	Optional recap for US participants, *Naveed and Louis*<br>
 
 ### Day 2: Tuesday 13th December 2022 
 
