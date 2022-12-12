@@ -6,19 +6,23 @@ title: Schedule
 This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
 
 ### Day 1: Monday 12th December 2022 [Times in CET and PST]
-11:00-12:00 [03:00-03:00] Arrival / registration<br>
-12:00-13:00 [03:00-04:00] Lunch<br>
 13:00-15:00 [04:00-06:00] 
-<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_10min_intro_v4.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
-<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_10min_intro_v4.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session0_10min_intro_v4.2.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session0_10min_intro_v4.2.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
 Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany) <br>
 15:00-15:30 [06:00-06:30]	Break<br>
 15:30-18:50 [06:30-09:50]	Introductory presentations<br>
- - 15:30 [06:30] General introduction (topic, motivation, paper, cloud, "streams"), *Naveed Ishaque, BIH*<br>
- - 15:50 [06:50] General organisation (Slack, GitHub, tasks, cloud), *Naveed Ishaque, BIH* <br>
+ - 15:30 [06:30]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session01_General_Intro_v2.4.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session01_General_Intro_v2.4.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+ General introduction (topic, motivation, paper, cloud, "streams"), *Naveed Ishaque, BIH*<br>
+ - 15:50 [06:50] 
+ <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session02_Organisation_v1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session02_Organisation_v1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+ General organisation (Slack, GitHub, tasks, cloud), *Naveed Ishaque, BIH* <br>
  - 16:10 [07:10] 
-<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_cloud_v1.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
-<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_cloud_v1.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
  Practical: SpaceHack cloud, *Naveed Ishaque, BIH*<br>
  - 17:00 [08:00] Spatial cell type mapping in SpaceTx, *Renee (Yun) Zhang, J. Craig Venter Institute*<br>
  - 17:20 [08:20] TXsim - a workflow to compare single cell and segmentated spatial, *Louis B Kuemmele, Helmholtz Munich* <br>
