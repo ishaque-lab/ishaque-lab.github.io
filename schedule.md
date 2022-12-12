@@ -24,9 +24,14 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
  Practical: SpaceHack cloud, *Naveed Ishaque, BIH*<br>
- - 17:00 [08:00] Spatial cell type mapping in SpaceTx, *Renee (Yun) Zhang, J. Craig Venter Institute*<br>
+ - 17:00 [08:00] 
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.28.486139v2.full" download><img src="images/biorxiv_icon.png" alt="drawing" width="18"/></a>
+Spatial cell type mapping in SpaceTx, *Renee (Yun) Zhang, J. Craig Venter Institute*<br>
  - 17:20 [08:20] TXsim - a workflow to compare single cell and segmentated spatial, *Louis B Kuemmele, Helmholtz Munich* <br>
- - 17:50 [08:50] Data + challenges: human heart and kidney, *Christoph Kuppe, RWTH Aachen*<br>
+ - 17:50 [08:50]
+<a href="https://pubmed.ncbi.nlm.nih.gov/33176333/" download><img src="images/pubmed_icon.png" alt="drawing" width="18"/></a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35948637/" download><img src="images/pubmed_icon.png" alt="drawing" width="18"/></a>
+Data + challenges: human heart and kidney, *Christoph Kuppe, RWTH Aachen*<br>
  - 18:10 [09:10] Data + challenges: human brain, *Jennie Close, Allen Inst*<br>
  - 18:30 [09:30] Data + challenges: mouse brain, *Michael Kunst, Allen Inst*<br>
  
