@@ -24,16 +24,27 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
 <a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
  Practical: SpaceHack cloud, *Naveed Ishaque, BIH*<br>
- - 17:00 [08:00] 
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.28.486139v2.full" download><img src="images/biorxiv_icon.png" alt="drawing" width="18"/></a>
+ - 17:00 [08:00]
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.28.486139v2.full" download><img src="https://github.com/SpatialHackathon/SpatialHackathon.github.io/blob/gh-pages/images/biorxiv_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session04_SpaceTx_Zhang.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session04_SpaceTx_Zhang.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
 Spatial cell type mapping in SpaceTx, *Renee (Yun) Zhang, J. Craig Venter Institute*<br>
- - 17:20 [08:20] TXsim - a workflow to compare single cell and segmentated spatial, *Louis B Kuemmele, Helmholtz Munich* <br>
+ - 17:20 [08:20]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session05_TXsim_04221212_Kuemmerle.key" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session05_TXsim_04221212_Kuemmerle.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a> 
+TXsim - a workflow to compare single cell and segmentated spatial, *Louis B Kuemmele, Helmholtz Munich* <br>
  - 17:50 [08:50]
 <a href="https://pubmed.ncbi.nlm.nih.gov/33176333/" download><img src="images/pubmed_icon.png" alt="drawing" width="18"/></a>
 <a href="https://pubmed.ncbi.nlm.nih.gov/35948637/" download><img src="images/pubmed_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session06_kidney_heart_Kuppe.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
 Data + challenges: human heart and kidney, *Christoph Kuppe, RWTH Aachen*<br>
- - 18:10 [09:10] Data + challenges: human brain, *Jennie Close, Allen Inst*<br>
- - 18:30 [09:30] Data + challenges: mouse brain, *Michael Kunst, Allen Inst*<br>
+ - 18:10 [09:10]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session07_Human_Brain_Data_CloseJ_AIBS.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session07_Human_Brain_Data_CloseJ_AIBS.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+Data + challenges: human brain, *Jennie Close, Allen Inst*<br>
+ - 18:30 [09:30]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session08_Mouse_Brain_Data_MichaelK_AIBS.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+Data + challenges: mouse brain, *Michael Kunst, Allen Inst*<br>
  
 18:50-20:00 [09:50-11:00]	Christmas Market Visit (... wrap up warm - it should be -6C with snow!)<br>
 20:00-24:00 [11:00-15:00] Evening at free disposal<br>
@@ -41,8 +52,15 @@ Data + challenges: human heart and kidney, *Christoph Kuppe, RWTH Aachen*<br>
 
 ### Day 2: Tuesday 13th December 2022 
 
-09:00-09:30 [00:00-00:30] Demo: how to hack, *Louis B Kuemmele, Helmholtz Munich*<br>
-09:30-12:00	[00:30-03:00] Hacking<br>
+09:00-09:30 [00:00-00:30]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/Day1_Session03_Cloud_v1.1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+SpaceHack Cloud, *Naveed Ishaque, BIH*<br>
+09:30-10:00 [00:30-01:30]
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_HakingTools_101.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2022/blob/main/presentations/SpaceHack_HakingTools_101.pptx.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="18"/></a>
+Hacking 101, *Paulo Czarnewski, SciLifeLab*<br>
+10:00-10:30 [01:00-01:30] Demo: how to hack with TXsim, *Louis B Kuemmele, Helmholtz Munich*<br>
 09:30-10:45	[00:30-02:00] *Optional* demo series: light weight introductions into the data, formats, tools, ...<br>
  - 09:30 [00:30] Github, *Naveed Ishaque, BIH*
  - 09:45 [00:45] Jupyter, *Paulo Czarnewski, SciLifeLab*
