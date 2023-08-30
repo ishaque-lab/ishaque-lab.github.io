@@ -2,7 +2,36 @@
 layout: page
 title: Home
 ---
+# Breaking news: SpaceHack2.0 has been accepted as another German BioHackathon project!
+<p align="center">
+⬤ <b>11th-15th December 2023</b> ⬤ <b>Beielfeld, Germany</a></b> ⬤ <b>Hybrid event</b> ⬤
+</p>
+
+Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. We are seeing an explosion in the number of tools being developed for downstream analysis and an emergence of datasets that are routinely used to evaluate the quality of new tools, however, we currently lack a community-driven continuous benchmarking of spatially resolved transcriptomics tools. A recent article in Nature highlights the need to address this issue via implementation of benchmarking via the OpenEBench and OMNIBENCHMARK platforms. These platforms provide a framework for curating computational tools and reference datasets for data, with a view towards extensibility as new computational approaches emerge.
+
+The focus of our BioHackathon project will be on:
+
+ - computational tools to identify tissue domains and niches, commonly referred to as spatial clustering (e.g. SpaGCN, BayesSpace)
+ - reference datasets across technologies (e.g. Visum, Xenium, Slide-seq, MERFISH) and tissues (e.g. DLPFC, hippocampus, olfactory bulb, liver
+ - investigating evaluation metric (e.g. ARI, NMI) with a focus on novel metrics and qualitative interpretation
+ - community benchmarking via OMNIBENCHMARK
+ - generalisability of models/results across batches
+
+While the primary aim of the project will be to have fun and meet other spatial researchers, we would endeavour to wrap up findings into publications. In the previous iteration of the SpaceHack project we attracted over 60 participants, and had a number of breakout projects that have preprints published on bioRxiv such as the SpatialData framework and the Xenium quality assessment study, with more on the way!
+
+#Project leads#: Naveed Ishaque; Co-leads: Ahmed Mahfouz, Mark Robinson, Brian Long
+
+Registration is open until 17th November 2023: https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7
+
+More information about the hackathon event and venue: https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2
+
+We will continue to update this website over time, but it is still populated with details from last years hackathon.
+
+-----
+
+
 ![image](https://user-images.githubusercontent.com/114547/201348988-951367e7-b36e-4c59-9020-2af6f3c45df6.png)
+
 
 <p align="center">
 ⬤ <b>12th-16th December 2022</b> ⬤ <b><a href="[https://www.denbi.de/component/chronoforms6/?chronoform=1st_BioHackathon_Germany](https://leucorea.de/)">Leucorea, Lutherstadt Wittenberg, Germany</a></b> ⬤ <b>Hybrid event</b> ⬤
