@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-![image](https://github.com/SpatialHackathon/SpatialHackathon.github.io/blob/gh-pages/images/spacehack2_ishihara.png)
+<img width="1239" alt="spacehack2_ishihara" src="https://github.com/SpatialHackathon/SpatialHackathon.github.io/assets/114547/be0d08d1-5dca-4931-bbb7-7c5686019e4c">
 
 <p align="center">
 ⬤ <b>ELIXIR-Germany 2nd BioHackathon</b> ⬤ <b> 11-15 December 2023</b> ⬤ <b>>Bielefeld, Germany<</b> ⬤ <b>Hybrid event</b> ⬤
