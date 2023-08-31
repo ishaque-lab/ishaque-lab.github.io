@@ -2,12 +2,20 @@
 layout: page
 title: Home
 ---
-# Breaking news: SpaceHack2.0 has been accepted as another German BioHackathon project!
+![image](https://github.com/SpatialHackathon/SpatialHackathon.github.io/blob/gh-pages/images/spacehack2_ishihara.png)
+
 <p align="center">
-⬤ <b>11th-15th December 2023</b> ⬤ <b>Beielfeld, Germany</a></b> ⬤ <b>Hybrid event</b> ⬤
+⬤ <b>ELIXIR-Germany 2nd BioHackathon</b> ⬤ <b> 11-15 December 2023</b> ⬤ <b>>Bielefeld, Germany<</b> ⬤ <b>Hybrid event</b> ⬤
+</p>
+<p align="center">
+  <b><a href="https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7">>> Register here <<</a></b>
 </p>
 
+### Abstract
+
 Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. We are seeing an explosion in the number of tools being developed for downstream analysis and an emergence of datasets that are routinely used to evaluate the quality of new tools, however, we currently lack a community-driven continuous benchmarking of spatially resolved transcriptomics tools. A recent article in Nature highlights the need to address this issue via implementation of benchmarking via the OpenEBench and OMNIBENCHMARK platforms. These platforms provide a framework for curating computational tools and reference datasets for data, with a view towards extensibility as new computational approaches emerge.
+
+### Project focus
 
 The focus of our BioHackathon project will be on:
 
@@ -19,13 +27,37 @@ The focus of our BioHackathon project will be on:
 
 While the primary aim of the project will be to have fun and meet other spatial researchers, we would endeavour to wrap up findings into publications. In the previous iteration of the SpaceHack project we attracted over 60 participants, and had a number of breakout projects that have preprints published on bioRxiv such as the SpatialData framework and the Xenium quality assessment study, with more on the way!
 
-#Project leads#: Naveed Ishaque; Co-leads: Ahmed Mahfouz, Mark Robinson, Brian Long
+### Organisational details
 
-Registration is open until 17th November 2023: https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7
+**Organizers**: 
+1.	[Naveed Ishaque](mailto:Naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>
+2.	[Brian Long](mailto:brianl@alleninstitute.org), Allen Institute for Brain Science, USA. Brian is a member of the Imaging Department at the Allen Institute with extensive experience in image and data analysis. He plays a driving role in the CZI funded SpaceTX consortia.<br>
+3.	[Ahmed Mahfouz](mailto:A.Mahfouz@tudelft.nl). Leiden UMC and TU Delft, Netherlands. Ahmed is an Assistant Professor leading a group that develops machine learning and statistical methods for high-throughput genomic data. They are interested in unraveling how genetic and environmental factors influence the molecular state of individual cells in normal and disease processes with applications in neuroscience and immunology.<br>
+3.	[Mark Robinson](mailto:louis.kuemmerle@helmholtz-muenchen.de). University of Zurich, Switzerland. Mark is a Professor leading a group that develops statistical methods for interpreting high-throughput sequencing and other genomics technologies in areas such as genome sequencing, gene expression and regulation and analysis of epigenomes.<br>
 
-More information about the hackathon event and venue: https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2
+**Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial clustering/domain identification to apply! **This will not be a tutorial, so be ready to contribute ;p.**
 
-We will continue to update this website over time, but it is still populated with details from last years hackathon.
+**Dates:** Monday 11th - Friday 15th December 2023
+
+**Location:** [Bielefelder-Hof Hotel, Bielefed, Germany](https://bielefelder-hof.de/). The venue for the BioHackathon Germany - Hotel Bielefelder Hof - is located right in the centre of Bielefeld, opposite the main train station and therefore offers an optimal connection and location. For transport recommendations please check the [ELIXIR Germany event page](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2).
+
+**Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
+
+**Registration:** registration is free using [this webform]("https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7) before the deadline of 17.11.23. **The number of on-site participants is limited to 80 persons.** 
+
+**Costs:** registration for the BioHackathon is free, however you will have to pay your own travel, food and accommodation expenses. de.NBI / ELIXIR Germany will pay expenses for lunch and drinks in the event.
+
+**Accomodation:** please check the [ELIXIR Germany event page](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2) for hotel recommendations.
+
+### Code of Conduct
+The ELIXIR Germany Code of Conduct has been created so all participants at ELIXIR Germany events organized can interact with each other in a respectful and safe environment, and have avenues to turn to in case they believe there has been a breach to this Code of Conduct.
+<i>Be excellent to each other.</i>
+
+We will continue to update this website over time, but below it is still populated with details from last years hackathon.
+
+-----
+
+-----
 
 -----
 
