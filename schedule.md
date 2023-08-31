@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
+# Please note that this is the schedule for 2022. The 2023 schedule is not up yet
+
 This workshop will take place from **Monday 12th Dec - Friday 16th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
 
 ### Day 1: Monday 12th December 2022 [Times in CET and PST]
