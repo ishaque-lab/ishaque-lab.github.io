@@ -29,11 +29,15 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 ### Organisational details
 
-**Organizers**: 
+**Organizing committee**: 
 1.	[Naveed Ishaque](mailto:Naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>
 2.	[Brian Long](mailto:brianl@alleninstitute.org), Allen Institute for Brain Science, USA. Brian is a member of the Imaging Department at the Allen Institute with extensive experience in image and data analysis. He plays a driving role in the CZI funded SpaceTX consortia.<br>
 3.	[Ahmed Mahfouz](mailto:A.Mahfouz@tudelft.nl). Leiden UMC and TU Delft, Netherlands. Ahmed is an Assistant Professor leading a group that develops machine learning and statistical methods for high-throughput genomic data. They are interested in unraveling how genetic and environmental factors influence the molecular state of individual cells in normal and disease processes with applications in neuroscience and immunology.<br>
-3.	[Mark Robinson](mailto:mark.robinson@mls.uzh.ch). University of Zurich, Switzerland. Mark is a Professor leading a group that develops statistical methods for interpreting high-throughput sequencing and other genomics technologies in areas such as genome sequencing, gene expression and regulation and analysis of epigenomes.<br>
+4.	[Mark Robinson](mailto:mark.robinson@mls.uzh.ch). University of Zurich, Switzerland. Mark is a Professor leading a group that develops statistical methods for interpreting high-throughput sequencing and other genomics technologies in areas such as genome sequencing, gene expression and regulation and analysis of epigenomes.<be>
+5.	Charlotte Soneson. Friedrich Miescher Institute for Biomedical Research, Switzerland. Charlotte is a research associate in the Computation Biology Platform at the FMI, and is highly experienced in analysis of transcriptomics data and benchmarking studies.
+6.	Teresa Zulueta-Coarasa. EBI, UK. Teresa is a bioinformatician at the [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/) and has multi-disciplinary experience in microscopy, quantitative image analysis, data management, and cell biology. Currently she is working on improving open access to biological images and annotations to accelerate the development of AI methods. 
+7.	Christoph Kuppe. RWTH Aachen University, Germany. Christoph leads the lab of Quantitative Cell Dynamics and Systems Biology whose goal is to integrate computational tools and novel technologies to enable unprecedented insights into molecular signaling circuits of cells in healthy and diseased tissues. 
+8.	Michael Fletcher. Mike is a senior editor at Nature Genetics, Senior editor. Previously, Mike was a Postdoctoral Fellow in the Division of Molecular Genetics at the German National Cancer Research Centre (DKFZ). He ran computational analyses on high-throughput sequencing data generated for a variety of genomics projects studying the biology of adult glioblastoma, a late stage brain cancer with extremely poor prognosis for patients.
 
 **Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial clustering/domain identification to apply! **This will not be a tutorial, so be ready to contribute ;p.**
 
