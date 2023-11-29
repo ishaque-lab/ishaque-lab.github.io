@@ -21,8 +21,6 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
  - 17:00 [08:00] 
  Spatial Clustering, *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
-Spatial cell type mapping in SpaceTx, *Renee (Yun) Zhang, J. Craig Venter Institute*<br>
- - 17:20 [08:20]
 Spatial Datasets, *Brian Long, AIBS and Christoph Kuppe, RTWH Aachen* <br>
  - 17:40 [08:40]
 Evaluations and metrics, *Ahmed Mahfouz, LUMC*<be>
