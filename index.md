@@ -43,7 +43,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 **Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
-**Registration:** registration is free using [this webform]("https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7) before the deadline of 17.11.23. **The number of on-site participants is limited to 80 persons.** 
+**Registration:** registration is free using [this webform](https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7) before the deadline of 17.11.23. **The number of on-site participants is limited to 80 persons.** 
 
 **Costs:** registration for the BioHackathon is free, however, you will have to pay your own travel, food and accommodation expenses. de.NBI / ELIXIR Germany will pay expenses for lunch and drinks in the event.
 
