@@ -45,7 +45,7 @@ Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 16:00-17:30	[07:00-08:30]	Hacking<br>
 17:30-18:00	[08:30-09:00] <b>Plenary (EU/US)</b><br>
 18:00-20:00	[09:00-11:00] Bowling at [The Strike](https://maps.app.goo.gl/pmiN62Cz7D8GkVHV7)<br>
-20:00-21:00	[11:00-12:00] Evening as free disposal</b><br>
+20:00-21:00	[11:00-12:00] Evening as free disposal<br>
 
 ### Day 3: Wednesday 13th December 2023 
 
@@ -57,7 +57,7 @@ Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 15:30-17:15	[06:30-08:15] Hacking<br>
 16:30-17:00	[07:30-08:00] <b>Plenary (EU/US)</b><br>
 17:00-20:00	[08:00-11:00] Visit to the [Dr. Oetker World](https://maps.app.goo.gl/p4D4pokx4tc2AdS59)<br>
-20:00-21:00	[11:00-12:00] Evening as free disposal</b><br>
+20:00-21:00	[11:00-12:00] Evening as free disposal<br>
 
 ### Day 4: Thursday 14th December 2023 
 
@@ -68,7 +68,7 @@ Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 15:30-16:00	[06:30-07:00] Break<br>
 16:00-17:15	[07:00-08:15] Hacking<br>
 17:30-18:00	[08:30-09:00] <b>Plenary (EU/US)</b><br>
-18:00-20:00 [09:00-11:00] Evening at free disposal<br>
+18:00-20:00 [09:00-11:00] <b>*Gin and Tonic tasting*</b><br>
 20:00-00:00	[11:00-15:00] After Hack Party at [Stereo Bielefeld](https://maps.app.goo.gl/oo7bH33V8NMiYStu5)<br>
 
 ### Day 5: Friday 15th December 2023 
