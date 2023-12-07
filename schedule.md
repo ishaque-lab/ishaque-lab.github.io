@@ -19,9 +19,11 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
  - 16:00 [07:00] 
  SpaceHack cloud 
 <a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-(https://spacehack.bihealth.org/), *Naveed Ishaque, BIH* <br>
+, *Naveed Ishaque, BIH* <br>
  - 17:00 [08:00] 
- Spatial Clustering, *Niklas Mueller-Boetticher, BIH*<br>
+ SpaceHack Interfaces
+<a href="https://docs.google.com/presentation/d/1l-q65j5F3TUI-3Uh7mv1KMfpsJvr6Ha-TsDXvC0-YbY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+, *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
 Spatial Datasets, *Meghan Turner/Brian Long, AIBS and Christoph Kuppe, RTWH Aachen* <br>
  - 17:40 [08:40]
@@ -63,13 +65,13 @@ Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 
 ### Day 4: Thursday 14th December 2023 
 
-09:00-09:30	[00:00-00:30] <b>Plenary (EU/Asia)</b><br>
-09:30-12:00	[00:30-03:00] Hacking<br>
+09:00-10:00	[00:00-01:00] <b>Extended Plenary - share your thoughts about benchmarking (EU/Asia)</b><br>
+10:00-12:00	[01:00-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-15:30	[04:00-06:30] Hacking<br>
 15:30-16:00	[06:30-07:00] Break<br>
-16:00-17:15	[07:00-08:15] Hacking<br>
-17:30-18:00	[08:30-09:00] <b>Plenary (EU/US)</b><br>
+16:00-17:00	[07:00-08:00] Hacking<br>
+17:00-18:00	[08:00-09:00] <b>Extended Plenary - share your thoughts about benchmarking  (EU/US)</b><br>
 18:00-20:00 [09:00-11:00] <b>*Gin and Tonic tasting*</b><br>
 20:00-00:00	[11:00-15:00] After Hack Party at [Stereo Bielefeld](https://maps.app.goo.gl/oo7bH33V8NMiYStu5)<br>
 
