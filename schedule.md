@@ -6,18 +6,20 @@ title: Schedule
 This hackathon will take place from **Monday 11th Dec - Friday 15th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
 
 ### Day 1: Monday 11th December 2023 [Times in CET and PST]
-11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.
-13:00-15:00 [04:00-06:00] 
-<a href="https://github.com/SpatialHackathon/SpaceHack2023/blob/main/presentations/template.pptx" download><img src="images/PPT_icon.png" alt="drawing" height="18"/></a>
-<a href="https://github.com/SpatialHackathon/SpaceHack2023/blob/main/presentations/template.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="18"/></a>
-<a href="https://docs.google.com/presentation/d/1kBBME3s2fO3nO0-ImZb9o9cHI5mZpVOcAIJlAx2tZeA/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.<br>
+13:00-15:00 [04:00-06:00] <br>
+<a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pptx" download><img src="images/PPT_icon.png" alt="drawing" height="18"/></a>
+<a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="18"/></a>
+<a href="https://docs.google.com/presentation/d/1kBBME3s2fO3nO0-ImZb9o9cHI5mZpVOcAIJlAx2tZeA/edit?usp=sharing"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany) <br>
 15:00-15:30 [06:00-06:30]	Break<br>
 15:30-18:00 [06:30-09:00]	General introductory talks <br>
  - 15:30 [06:30]
  General introduction (topic, motivation, paper, cloud, "streams"), *Naveed Ishaque, BIH*<br>
  - 16:00 [07:00] 
- SpaceHack cloud (https://spacehack.bihealth.org/), *Naveed Ishaque, BIH* <br>
+ SpaceHack cloud 
+<a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+(https://spacehack.bihealth.org/), *Naveed Ishaque, BIH* <br>
  - 17:00 [08:00] 
  Spatial Clustering, *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
