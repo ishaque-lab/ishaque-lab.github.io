@@ -17,7 +17,9 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
 15:00-15:30 [06:00-06:30]	Break<br>
 15:30-18:00 [06:30-09:00]	General introductory talks <br>
  - 15:30 [06:30]
- General introduction (topic, motivation, paper, cloud, "streams"), *Naveed Ishaque, BIH*<br>
+ General introduction 
+<a href="https://docs.google.com/presentation/d/1_mO_sVbjfhnx-lOnkvsOCAcJQ0HtBkDuYlVCpMRs6zY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+, *Naveed Ishaque, BIH*<br>
  - 16:00 [07:00] 
  SpaceHack cloud 
 <a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
@@ -32,7 +34,7 @@ Spatial Datasets, *Meghan Turner/Brian Long, AIBS and Christoph Kuppe, RTWH Aach
 Evaluations and metrics, *Ahmed Mahfouz, LUMC*<be>
 
 18:00-18:30 [09:00-09:30] *Free time*<br>
-18:30-20:00 [09:30-11:00]	Christmas Market Visit (... wrap up warm - it should be -6C with snow!)<br>
+18:30-20:00 [09:30-11:00]	Christmas Market Visit<br>
 20:00-24:00 [11:00-15:00] Evening at free disposal<br>
 
 ### Day 2: Tuesday 12th December 2023 
