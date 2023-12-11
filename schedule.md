@@ -6,14 +6,17 @@ title: Schedule
 This hackathon will take place from **Monday 11th Dec - Friday 15th Dec 2022**. The timing of this event will be **Central European Time (CET)**.
 
 **[Join everyday via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWJhYTliNDItMDcyYS00NjZhLTkzMzAtNjE0MDFiMjFkYjU0%40thread.v2/0?context=%7b%22Tid%22%3a%22afe91939-923e-432c-bc66-cbc3ec18d02c%22%2c%22Oid%22%3a%221298273b-1298-4d92-a14b-894d7df2a533%22%7d)**
-
-### Day 1: Monday 11th December 2023 [Times in CET and PST]
-11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.<br>
-13:00-15:00 [04:00-06:00] 
+<!--- 
 <a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pptx" download><img src="images/PPT_icon.png" alt="drawing" height="18"/></a>
 <a href="https://github.com/SpatialHackathon/SpaceHack2023_organisation/blob/main/presentations/template.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="18"/></a>
 <a href="https://docs.google.com/presentation/d/1kBBME3s2fO3nO0-ImZb9o9cHI5mZpVOcAIJlAx2tZeA/edit?usp=sharing"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany). [Zoom link](https://uni-bielefeld.zoom-x.de/j/62068208790?pwd=N3NmcW1uc1M5SFRYbDRROWJkcENFdz09).<br>
+--->
+### Day 1: Monday 11th December 2023 [Times in CET and PST]
+11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.<br>
+13:00-15:00 [04:00-06:00] 
+Introduction to the de.NBI Hhackathon and 10-minute pitches for all projects 
+<a href="https://docs.google.com/presentation/d/1Gzndc58v0UcVupSItgrTs_TarrDwtEPYVmbBNdVTYdU/edit"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+, [Zoom link](https://uni-bielefeld.zoom-x.de/j/62068208790?pwd=N3NmcW1uc1M5SFRYbDRROWJkcENFdz09).<br>
 15:00-15:30 [06:00-06:30]	Break<br>
 15:30-18:00 [06:30-09:00]	General introductory talks <br>
  - 15:30 [06:30]
