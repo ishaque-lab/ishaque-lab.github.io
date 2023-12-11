@@ -14,7 +14,7 @@ This hackathon will take place from **Monday 11th Dec - Friday 15th Dec 2022**. 
 ### Day 1: Monday 11th December 2023 [Times in CET and PST]
 11:00-13:00 [02:00-04:00]	Arrival and registration. Coffee from 12:00.<br>
 13:00-15:00 [04:00-06:00] 
-Introduction to the de.NBI Hhackathon and 10-minute pitches for all projects 
+Introduction to the de.NBI Hackathon and 10-minute pitches for all projects 
 <a href="https://docs.google.com/presentation/d/1Gzndc58v0UcVupSItgrTs_TarrDwtEPYVmbBNdVTYdU/edit"><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 , [Zoom link](https://uni-bielefeld.zoom-x.de/j/62068208790?pwd=N3NmcW1uc1M5SFRYbDRROWJkcENFdz09).<br>
 15:00-15:30 [06:00-06:30]	Break<br>
@@ -22,10 +22,12 @@ Introduction to the de.NBI Hhackathon and 10-minute pitches for all projects
  - 15:30 [06:30]
  General introduction 
 <a href="https://docs.google.com/presentation/d/1_mO_sVbjfhnx-lOnkvsOCAcJQ0HtBkDuYlVCpMRs6zY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ES6Ey4vTJtpHlYOaR53CytgBI5_J1-bJ9TJ00g7CeehnbA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH*<br>
  - 16:00 [07:00] 
  SpaceHack cloud 
 <a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EVcsys3hXEpDinVqEeRIlc0BHh6dEbGOtUdy8jrJ3JraqA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH* <br>
  - 17:00 [08:00] 
  SpaceHack Interfaces
