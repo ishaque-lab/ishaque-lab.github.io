@@ -32,12 +32,13 @@ Introduction to the de.NBI Hackathon and 10-minute pitches for all projects
  - 17:00 [08:00] 
  SpaceHack Interfaces
 <a href="https://docs.google.com/presentation/d/1l-q65j5F3TUI-3Uh7mv1KMfpsJvr6Ha-TsDXvC0-YbY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EUh3uDs-1ONNk5qDWs0PabgBuTmYnrPtMvx76VSybAMNGg?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
 Spatial Datasets, *Meghan Turner 
 <a href="https://docs.google.com/presentation/d/1LbnpsltCegAZwKycDPayb7OW7GKMm7hbMniC7jg5N3U/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 /Brian Long
-<a href="https://docs.google.com/presentation/d/1LbnpsltCegAZwKycDPayb7OW7GKMm7hbMniC7jg5N3U/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href="https://docs.google.com/presentation/d/1PMz5MsvBu42tiDNqjOfQkgPTNzDUC07DiQFDgovawCI/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 , AIBS and ~Christoph Kuppe~ Paul Kiessling
 <a href="https://1drv.ms/p/s!AtPcVxxBJyJSgzbLNLVmBkOXwFfv?e=lLkXXK" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 , RTWH Aachen* <br>
