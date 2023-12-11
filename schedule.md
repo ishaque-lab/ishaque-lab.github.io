@@ -41,11 +41,13 @@ Spatial Datasets, *Meghan Turner
 <a href="https://docs.google.com/presentation/d/1PMz5MsvBu42tiDNqjOfQkgPTNzDUC07DiQFDgovawCI/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 , AIBS and ~Christoph Kuppe~ Paul Kiessling
 <a href="https://1drv.ms/p/s!AtPcVxxBJyJSgzbLNLVmBkOXwFfv?e=lLkXXK" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-, RTWH Aachen* <br>
+, RTWH Aachen*
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EXKG0eomZQxDvXdYs4c1kr4Bb1u5intxPaKdozHvoetHKA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
  - 17:40 [08:40]
 Evaluations and metrics 
 <a href="https://docs.google.com/presentation/d/1LBCZjkUUo1-sZ2qY4X7T65UcDluq9SSpYbF7xXLVdjQ/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-, *Ahmed Mahfouz, LUMC*<be>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ETfNsnFBV6xBn3YxmnfgYeEBNuG14JIgfOMbksVsOK46oQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+, *Ahmed Mahfouz, LUMC*
 
 18:00-18:30 [09:00-09:30] *Free time*<br>
 18:30-20:00 [09:30-11:00]	Christmas Market Visit<br>
