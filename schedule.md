@@ -31,7 +31,9 @@ Talks on de.NBI biohackathon and [all projects](https://www.denbi.de/de-nbi-even
  - 17:20 [08:20]
 Spatial Datasets, *Meghan Turner/Brian Long, AIBS and Christoph Kuppe, RTWH Aachen* <br>
  - 17:40 [08:40]
-Evaluations and metrics, *Ahmed Mahfouz, LUMC*<be>
+Evaluations and metrics 
+<a href="https://docs.google.com/presentation/d/1LBCZjkUUo1-sZ2qY4X7T65UcDluq9SSpYbF7xXLVdjQ/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+, *Ahmed Mahfouz, LUMC*<be>
 
 18:00-18:30 [09:00-09:30] *Free time*<br>
 18:30-20:00 [09:30-11:00]	Christmas Market Visit<br>
