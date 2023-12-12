@@ -93,6 +93,7 @@ Continuous community benchmarking using OMNIBENCHMARK
 ### Day 4: Thursday 14th December 2023 
 
 09:00-10:00	[00:00-01:00] <b>Extended Plenary - share your thoughts about benchmarking (EU/Asia)</b><br>
+09:15-09:30 [00:15-00:30] <b>Guest talk on [SpatialData](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1), Josh Moore, German Bioimaging </b><br>
 10:00-12:00	[01:00-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-15:30	[04:00-06:30] Hacking<br>
