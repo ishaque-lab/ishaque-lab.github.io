@@ -22,17 +22,17 @@ Introduction to the de.NBI Hackathon and 10-minute pitches for all projects
  - 15:30 [06:30]
  General introduction 
 <a href="https://docs.google.com/presentation/d/1_mO_sVbjfhnx-lOnkvsOCAcJQ0HtBkDuYlVCpMRs6zY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ES6Ey4vTJtpHlYOaR53CytgBI5_J1-bJ9TJ00g7CeehnbA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ES6Ey4vTJtpHlYOaR53CytgBQrSvyos2stTIKG6XhpxFzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=caYYTL"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH*<br>
  - 16:00 [07:00] 
  SpaceHack cloud 
 <a href="https://docs.google.com/presentation/d/1NQgcnnsTXL7gDmBN72E1iOwkibsCxkAco7QHDJUsnJ4/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EVcsys3hXEpDinVqEeRIlc0BHh6dEbGOtUdy8jrJ3JraqA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EVcsys3hXEpDinVqEeRIlc0BjMIKal1EWkddreDNOZJYKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qDkZIF"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Naveed Ishaque, BIH* <br>
  - 17:00 [08:00] 
  SpaceHack Interfaces
 <a href="https://docs.google.com/presentation/d/1l-q65j5F3TUI-3Uh7mv1KMfpsJvr6Ha-TsDXvC0-YbY/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EUh3uDs-1ONNk5qDWs0PabgBuTmYnrPtMvx76VSybAMNGg?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EUh3uDs-1ONNk5qDWs0PabgBoXLP0LkyVQvlQaMQPPwbeQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HeKi5e"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Niklas Mueller-Boetticher, BIH*<br>
  - 17:20 [08:20]
 Spatial Datasets, *Meghan Turner 
@@ -42,11 +42,11 @@ Spatial Datasets, *Meghan Turner
 , AIBS and ~Christoph Kuppe~ Paul Kiessling
 <a href="https://1drv.ms/p/s!AtPcVxxBJyJSgzbLNLVmBkOXwFfv?e=lLkXXK" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 , RTWH Aachen*
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EXKG0eomZQxDvXdYs4c1kr4Bb1u5intxPaKdozHvoetHKA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EXKG0eomZQxDvXdYs4c1kr4B_r1MpzcTJttnO6Uwp7od9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hfvMlc"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
  - 17:40 [08:40]
 Evaluations and metrics 
 <a href="https://docs.google.com/presentation/d/1LBCZjkUUo1-sZ2qY4X7T65UcDluq9SSpYbF7xXLVdjQ/edit" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
-<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ETfNsnFBV6xBn3YxmnfgYeEBNuG14JIgfOMbksVsOK46oQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/ETfNsnFBV6xBn3YxmnfgYeEBU0gdmpSxn5F5JnvbFQBIfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1kgCAr"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Ahmed Mahfouz, LUMC*
 
 18:00-18:30 [09:00-09:30] *Free time*<br>
