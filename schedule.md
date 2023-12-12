@@ -82,7 +82,7 @@ Continuous community benchmarking using OMNIBENCHMARK
 09:00-09:30	[00:00-00:30] <b>Plenary (EU/Asia)</b><br>
 09:30-12:00	[00:30-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
-13:00-15:00	[04:00-06:00] ~Mid-way reporting from projects~<b>Hacking!</b><br>
+13:00-15:00	[04:00-06:00] <b>Hacking!</b><br>
 15:00-15:05 [06:00-06:05] <b>Geust lecture: The Global Alliance for Spatial Technologies (GESTALT), Ioannis Vlachos, Harvard.</b><br>
 15:05-15:30	[06:05-06:30]	Break<br>
 15:30-17:15	[06:30-08:15] Hacking<br>
