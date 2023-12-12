@@ -59,10 +59,14 @@ Evaluations and metrics
 Recap and assignment/volunteering of/for tasks/call for sub-leads, *Naveed Ishaque, BIH*<br>
 09:30-10:00 [00:30-01:30]
 EBI BioImageArchive
+<a href="https://docs.google.com/presentation/d/1zRcgqVcDV1j1w6DajAe8kbqqKoa49vsT/" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
 <a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EaQpcKkqcd5IrNdIuMPMe3UBZVJ9IGeJmQCa0bGjl_tU0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p7Uw7P"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
 , *Teresa Zulueta-Coarasa, EBI*<br>
 10:00-10:30 [01:00-01:30] 
-Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
+Continuous community benchmarking using OMNIBENCHMARK
+<a href="https://docs.google.com/presentation/d/1ZAmmZ1ucFNDoz-I6VtEsKnW88bPeTIVx5N3TfiOdZCA/edit?usp=sharing" ><img src="images/google_slides_icon.png" alt="drawing" height="18"/></a>
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/Ebk2SXITVTZJqDkDUclKbQgBhZgYNkDGHA7OfxYRBJDKjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9eDiGh"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+, *Mark Robinson,UZH*<br>
 10:30-12:00	[01:30-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-13:15 [04:00-04:15]	Group photo<br>
@@ -78,8 +82,9 @@ Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 09:00-09:30	[00:00-00:30] <b>Plenary (EU/Asia)</b><br>
 09:30-12:00	[00:30-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
-13:00-15:00	[04:00-06:00] <b>Mid-way reporting from projects - stream representative</b>. [Zoom link](https://uni-bielefeld.zoom-x.de/j/66096033455?pwd=M3NKR1Vxd1BIMnZ0aldYQjNlcDI1UT09).<br>
-15:00-15:30	[06:00-06:30]	Break<br>
+13:00-15:00	[04:00-06:00] ~Mid-way reporting from projects~<b>Hacking!</b><br>
+15:00-15:05 [06:00-06:05] <b>Geust lecture: The Global Alliance for Spatial Technologies (GESTALT), Ioannis Vlachos, Harvard.</b><br>
+15:05-15:30	[06:05-06:30]	Break<br>
 15:30-17:15	[06:30-08:15] Hacking<br>
 16:30-17:00	[07:30-08:00] <b>Plenary (EU/US)</b><br>
 17:00-20:00	[08:00-11:00] Visit to the [Dr. Oetker World](https://maps.app.goo.gl/p4D4pokx4tc2AdS59)<br>
