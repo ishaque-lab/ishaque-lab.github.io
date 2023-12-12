@@ -58,7 +58,9 @@ Evaluations and metrics
 09:00-09:30 [00:00-00:30]
 Recap and assignment/volunteering of/for tasks/call for sub-leads, *Naveed Ishaque, BIH*<br>
 09:30-10:00 [00:30-01:30]
-EBI BioImageArchive, *Teresa Zulueta-Coarasa, EBI*<br>
+EBI BioImageArchive
+<a href="https://charitede-my.sharepoint.com/:v:/g/personal/naveed_ishaque_bih-charite_de/EaQpcKkqcd5IrNdIuMPMe3UBZVJ9IGeJmQCa0bGjl_tU0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p7Uw7P"><img src="images/recording_icon.png" alt="drawing" height="18"/></a>
+, *Teresa Zulueta-Coarasa, EBI*<br>
 10:00-10:30 [01:00-01:30] 
 Continuous community benchmarking using OMNIBENCHMARK, *Mark Robinson,UZH*<br>
 10:30-12:00	[01:30-03:00] Hacking<br>
