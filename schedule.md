@@ -83,8 +83,7 @@ Continuous community benchmarking using OMNIBENCHMARK
 09:30-12:00	[00:30-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-15:00	[04:00-06:00] <b>Hacking!</b><br>
-15:00-15:05 [06:00-06:05] <b>Geust lecture: The Global Alliance for Spatial Technologies (GESTALT), Ioannis Vlachos, Harvard.</b><br>
-15:05-15:30	[06:05-06:30]	Break<br>
+15:00-15:30	[06:00-06:30]	Break<br>
 15:30-17:15	[06:30-08:15] Hacking<br>
 16:30-17:00	[07:30-08:00] <b>Plenary (EU/US)</b><br>
 17:00-20:00	[08:00-11:00] Visit to the [Dr. Oetker World](https://maps.app.goo.gl/p4D4pokx4tc2AdS59)<br>
@@ -93,10 +92,11 @@ Continuous community benchmarking using OMNIBENCHMARK
 ### Day 4: Thursday 14th December 2023 
 
 09:00-10:00	[00:00-01:00] <b>Extended Plenary - share your thoughts about benchmarking (EU/Asia)</b><br>
-09:15-09:30 [00:15-00:30] <b>Guest talk on [SpatialData](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1), Josh Moore, German Bioimaging </b><br>
+09:15-09:30 [00:15-00:30] <b>Guest lecture: [SpatialData](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1), Josh Moore, German Bioimaging </b><br>
 10:00-12:00	[01:00-03:00] Hacking<br>
 12:00-13:00	[03:00-04:00] Lunch<br>
 13:00-15:30	[04:00-06:30] Hacking<br>
+15:00-15:05 [06:00-06:05] <b>Geust lecture: The Global Alliance for Spatial Technologies (GESTALT), Ioannis Vlachos, Harvard. [ZOOM link](https://us04web.zoom.us/j/9707085443?pwd=ZlBPTDRrRDFWMHFUNHhlbFJsY1Q0UT09)</b><br>
 15:30-16:00	[06:30-07:00] Break<br>
 16:00-17:00	[07:00-08:00] Hacking<br>
 17:00-18:00	[08:00-09:00] <b>Extended Plenary - share your thoughts about benchmarking  (EU/US)</b><br>
