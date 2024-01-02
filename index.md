@@ -62,7 +62,7 @@ By better understanding global and local patterns in biological data, we believe
                             <td>PhD student</td>
                         </tr>
                         <tr>
-                            <th>Jiheng Jiang</th>
+                            <th>Yiheng Jiang</th>
                             <td>PhD student</td>
                         </tr>
                         <tr>
