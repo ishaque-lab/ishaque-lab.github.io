@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General
+title: general
 ---
 
 Coming soom
