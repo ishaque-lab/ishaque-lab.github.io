@@ -13,6 +13,7 @@ title: finding us
 - Naveed Ishaque, group leader. Naveed.Ishaque@bih-charite.de.
 - Wiebke Hartung, departmental administrator and executive assistant to head of department. Wiebke.Hartung@bih-charite.de.
 - Alexandra Friedrich, head of Project Management and Organisation team. Alexandra.Friedrich@bih-charite.de.
+- Stefan Schneider, head of IT. Stefan.Schneider@bih-charite.de.
 - Sebastian Mackowiak, senior post doc. Sebastian.Mackowiak@bih-charite.de.
 - Interns will also be assigned a day-to-day supervisor who will be a PhD student or post-doctoral researcher in the team.
 
