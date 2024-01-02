@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting started
+title: getting started
 ---
 
 Coming soom
