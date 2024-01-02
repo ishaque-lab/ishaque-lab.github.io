@@ -8,7 +8,7 @@ Our group's interest lies in understanding the basis of biological heterogeneity
 
 By better understanding global and local patterns in biological data, we believe we can better differentiate the mechanisms behind biological and molecular processes from technical noise. As such, we rely on establishing close ties with experimental collaborators who can provide us with large-scale and high-dimensional datasets profiled using state-of-the-art and exotic 'omics profiling techniques. We aim to take advantage of recent technological advances that can resolve single-cell, spatial, temporal, and genetic heterogeneity.
 
- <table class="table">
+<table class="table">
                     <thead>
                         <tr>
                             <th>Member</th>
@@ -18,11 +18,11 @@ By better understanding global and local patterns in biological data, we believe
                     <tbody>
                         <tr>
                             <th> Dr. Naveed Ishaque</a></th>
-                            <td>Group leader</th>
+                            <td>Group leader</td>
                         </tr>
                         <tr>
                             <th>Franziska Mueller</th>
-                            <td>Project manager</th>
+                            <td>Project manager</td>
                         </tr>
                         <tr>
                             <th>Dr Sebastian Mackowiak</th>
@@ -34,37 +34,37 @@ By better understanding global and local patterns in biological data, we believe
                         </tr>
                         <tr>
                             <th>Olivia Debnath</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Shashwat Sahay</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Sebastian Tiesmeyer</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Alexander Malt</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Niklas Mueller-Boetticher</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Runbing Han</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Jiheng Jiang</th>
-                            <td>PhD student</th>
+                            <td>PhD student</td>
                         </tr>
                         <tr>
                             <th>Jakub Otreba (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
-                           <tr>
+                        <tr>
                             <th>Shudi Xu (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
