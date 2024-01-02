@@ -6,5 +6,6 @@ show_excerpts: false
 header_pages:
   - index.md
   - interns.md
+  - getting-started.md
   - organisation.md
-  - something.md
+
