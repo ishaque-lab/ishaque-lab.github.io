@@ -22,7 +22,7 @@ By better understanding global and local patterns in biological data, we believe
                     </thead>
                     <tbody>
                         <tr>
-                            <th> Dr. Naveed Ishaque</a></th>
+                            <th> Dr. Naveed Ishaque</th>
                             <td>Group leader</td>
                         </tr>
                         <tr>
